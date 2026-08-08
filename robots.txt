@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-li959c.juragan89site.store/sitemap.xml
